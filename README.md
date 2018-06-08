@@ -1,5 +1,6 @@
 # deeplab-demo
-Image segmentation using deeplab
+
+# Image segmentation using deeplab
 
 @article{deeplabv3plus2018,
   title={Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation},
